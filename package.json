@@ -1,0 +1,12 @@
+{
+  "name": "snake-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "commit": "gitmoji -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
